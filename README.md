@@ -22,7 +22,7 @@
 [<img align="left" alt="YesterianusKaladana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/yesterianusKaladana
+[youtube]: https://www.youtube.com/@yesterianuskaladana
 [instagram]: https://www.instagram.com/yesterianus_kaladana/
 [linkedin]: https://linkedin.com/in/yesterianusKaladana
 
