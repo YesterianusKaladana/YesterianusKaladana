@@ -8,7 +8,7 @@
 - <b>Attending WordCamp Brisbane 2025</b>
   - [Attending Conference](https://www.instagram.com/p/DK6v0BfvEjR/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==)
 
-- <b>My First Project 2021</b>
+- <b> 🚀 My First Project 2021</b>
   - [Learn Github](https://github.com/YesterianusKaladana/learn_github.git)
 
 
