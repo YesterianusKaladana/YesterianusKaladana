@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Currently developing the High Street Gym App as a Full-Stack Web Development project</b>
-  - [Gym Apps 2026](https://github.com/YesterianusKaladana/mvc-high-street-gym-app.git)
+  - [High Street Gym Apps 2026](https://github.com/YesterianusKaladana/mvc-high-street-gym-app.git)
     
 - <b>Attending WordCamp Brisbane 2025</b>
   - [Attending Conference](https://www.instagram.com/p/DK6v0BfvEjR/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==)
