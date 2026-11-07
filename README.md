@@ -1,8 +1,8 @@
-<h1>Hi, I'm Yesterianus! </h1>
+# Hi, I'm Yesterianus! 👋
 
-<h2>👨‍💻 Web Development Projects</h2>
+## 👨‍💻 Web Development Projects
 
-- <b>Currently developing a full-stack web application using the Model-View-Controller (MVC) architectural pattern and RESTful API principles.</b>
-  - View HSG Project 2026(https://github.com/YesterianusKaladana/mvc-high-street-gym-app.git)
+- **Currently developing a full-stack web application** using the Model-View-Controller (MVC) architectural pattern and RESTful API principles.
+  - [View HSG Project 2026](https://github.com/YesterianusKaladana/mvc-high-street-gym-app)
     
 
